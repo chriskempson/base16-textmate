@@ -22,7 +22,7 @@
 				<key>lineHighlight</key>
 				<string>#073642</string>
 				<key>selection</key>
-				<string>#657b83</string>
+				<string>#586e75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -483,6 +483,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>fb2bc174-6497-4633-9c05-37a8783cbc05</string>
+	<string>d033adcf-97bd-4135-983c-543c550c7153</string>
 </dict>
 </plist>
