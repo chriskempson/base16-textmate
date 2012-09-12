@@ -9,11 +9,13 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 ## Installation
 
 ### TextMate
-    git clone git://github.com/chriskempson/base16-textmate.git ~/Library/Application\ Support/TextMate/Themes/Base16
-    cp ~/Library/Application\ Support/TextMate/Themes/Base16/*.tmTheme ~/Library/Application\ Support/TextMate/Themes
+    cd ~/Library/Application\ Support/TextMate/Themes
+    git clone git://github.com/chriskempson/base16-textmate.git Base16
+    cp Base16/*.tmTheme .
     
 ### Sublime Text 2
-    git clone git://github.com/chriskempson/base16-textmate.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Base16
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    git clone git://github.com/chriskempson/base16-textmate.git Base16
     
 ## Update
 
@@ -22,6 +24,6 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
     git pull
     cp -f *.tmTheme ..
     
-### TextMate
+### Sublime Text 2
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Base16
     git pull
