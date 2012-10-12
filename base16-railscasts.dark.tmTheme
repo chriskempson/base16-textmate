@@ -6,6 +6,21 @@
 	<string>Ryan Bates (http://railscasts.com)</string>
 	<key>name</key>
 	<string>Base16 Railscasts Dark</string>
+	<key>semanticClass</key>
+	<string>base16.railscasts.dark</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#272935</string>
+		<key>divider</key>
+		<string>#272935</string>
+		<key>foreground</key>
+		<string>#5a647e</string>
+		<key>selectionBackground</key>
+		<string>#3a4055</string>
+		<key>selectionForeground</key>
+		<string>#d4cfc9</string>
+	</dict>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -483,6 +498,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>3134e074-9a57-4996-97e0-6a2b35de7b1a</string>
+	<string>f0936395-ccb8-4378-8171-8c17d9f1c398</string>
 </dict>
 </plist>

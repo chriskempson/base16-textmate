@@ -6,6 +6,21 @@
 	<string>Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
 	<string>Base16 Ocean Dark</string>
+	<key>semanticClass</key>
+	<string>base16.ocean.dark</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#343d46</string>
+		<key>divider</key>
+		<string>#343d46</string>
+		<key>foreground</key>
+		<string>#65737e</string>
+		<key>selectionBackground</key>
+		<string>#4f5b66</string>
+		<key>selectionForeground</key>
+		<string>#a7adba</string>
+	</dict>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -483,6 +498,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>42da547e-b6d7-495d-af81-4981734cdb5b</string>
+	<string>747d0b3b-f376-4091-9db4-07d277e5da56</string>
 </dict>
 </plist>

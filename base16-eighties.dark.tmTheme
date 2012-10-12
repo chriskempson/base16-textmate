@@ -6,6 +6,21 @@
 	<string>Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
 	<string>Base16 Eighties Dark</string>
+	<key>semanticClass</key>
+	<string>base16.eighties.dark</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#393939</string>
+		<key>divider</key>
+		<string>#393939</string>
+		<key>foreground</key>
+		<string>#747369</string>
+		<key>selectionBackground</key>
+		<string>#515151</string>
+		<key>selectionForeground</key>
+		<string>#a09f93</string>
+	</dict>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -483,6 +498,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>aa0ea068-d97c-47b0-85ad-09301d4bf598</string>
+	<string>5e61f721-5608-467c-ae07-22b49513334a</string>
 </dict>
 </plist>
