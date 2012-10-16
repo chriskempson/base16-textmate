@@ -99,7 +99,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword.control</string>
+			<string>keyword, keyword.control</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -132,7 +132,7 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class, support.class</string>
+			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -174,9 +174,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Strings</string>
+			<string>Strings, Inherited Class</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol</string>
+			<string>string, constant.other.symbol, entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -498,6 +498,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>d56c2330-43f2-49c8-9620-df8f431a44c4</string>
+	<string>6c98c46f-391d-406d-92ad-de513b22dd01</string>
 </dict>
 </plist>
