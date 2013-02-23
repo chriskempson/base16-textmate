@@ -433,10 +433,8 @@
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#859900</string>
 				<key>foreground</key>
-				<string>#002b36</string>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -446,10 +444,19 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#dc322f</string>
 				<key>foreground</key>
-				<string>#002b36</string>
+				<string>#dc322f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cb4b16</string>
 			</dict>
 		</dict>
 		<dict>
