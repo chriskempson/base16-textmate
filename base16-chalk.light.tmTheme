@@ -427,16 +427,15 @@
 			</dict>
 		</dict>
 		<dict>
+		<dict>
 			<key>name</key>
 			<string>Inserted</string>
 			<key>scope</key>
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#acc267</string>
 				<key>foreground</key>
-				<string>#f5f5f5</string>
+				<string>#acc267</string>
 			</dict>
 		</dict>
 		<dict>
@@ -446,13 +445,21 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#fb9fb1</string>
 				<key>foreground</key>
-				<string>#f5f5f5</string>
+				<string>#fb9fb1</string>
 			</dict>
 		</dict>
 		<dict>
+			<key>name</key>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eda987</string>
+			</dict>
+		</dict>		<dict>
 			<key>name</key>
 			<string>Colours</string>
 			<key>scope</key>
