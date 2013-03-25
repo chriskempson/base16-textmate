@@ -402,32 +402,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Diff Header</string>
-			<key>scope</key>
-			<string>meta.diff.header</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#f5f5f5</string>
-				<key>foreground</key>
-				<string>#6a9fb5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diff Range</string>
-			<key>scope</key>
-			<string>meta.diff.range</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#f5f5f5</string>
-				<key>foreground</key>
-				<string>#75b5aa</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Inserted</string>
 			<key>scope</key>
 			<string>markup.inserted</string>
@@ -496,8 +470,47 @@
 				<string>#8f5536</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.deleted</string>
+			<key>scope</key>
+			<string>markup.deleted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ac4142</string>
+				<key>background</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.inserted</string>
+			<key>scope</key>
+			<string>markup.inserted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#90a959</string>
+				<key>background</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>diff.changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aa759f</string>
+				<key>background</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>dc222515-ce6f-458a-bc00-b6fffaea1e57</string>
+	<string>038cd454-c24a-4fb5-a974-ca67ff81cfb5</string>
 </dict>
 </plist>
