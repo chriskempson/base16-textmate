@@ -509,6 +509,21 @@
 				<string>#303030</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFF00FF</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#00009FFF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>7dfd878e-7609-463c-8fda-4b97e6918415</string>
