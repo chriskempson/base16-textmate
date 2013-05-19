@@ -8,6 +8,8 @@
 	<string>Base16 Railscasts Light</string>
 	<key>semanticClass</key>
 	<string>base16.railscasts.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#f4f1ed</string>
 				<key>lineHighlight</key>
-				<string>#e6e1dc</string>
+				<string>#f4f1ed</string>
 				<key>selection</key>
 				<string>#f4f1ed</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#f9f7f3</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#da4939</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f9f7f3</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>c4d6e69f-dfdd-411a-a304-6b28b18bae28</string>
+	<string>5f5a9e7d-0200-4fbe-94ea-f9f4c59b4ed9</string>
 </dict>
 </plist>

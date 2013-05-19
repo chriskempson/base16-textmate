@@ -8,6 +8,8 @@
 	<string>Base16 Solarized Dark</string>
 	<key>semanticClass</key>
 	<string>base16.solarized.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#073642</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#dc322f</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#002b36</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>4f767a6a-9678-4e17-bfee-4b7b10e47f17</string>
+	<string>d1a20fb1-87b3-47d4-b4dc-de30f8bf57d2</string>
 </dict>
 </plist>

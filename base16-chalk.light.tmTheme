@@ -8,6 +8,8 @@
 	<string>Base16 Chalk Light</string>
 	<key>semanticClass</key>
 	<string>base16.chalk.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#e0e0e0</string>
 				<key>lineHighlight</key>
-				<string>#d0d0d0</string>
+				<string>#e0e0e0</string>
 				<key>selection</key>
 				<string>#e0e0e0</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#f5f5f5</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#fb9fb1</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>5bfedba1-754f-44e7-9282-ef92ab9f22e6</string>
+	<string>a88b55d4-5c1f-4b12-b2b0-80211c2b1c70</string>
 </dict>
 </plist>

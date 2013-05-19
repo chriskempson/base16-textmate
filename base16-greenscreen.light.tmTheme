@@ -8,6 +8,8 @@
 	<string>Base16 Green Screen Light</string>
 	<key>semanticClass</key>
 	<string>base16.greenscreen.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#00dd00</string>
 				<key>lineHighlight</key>
-				<string>#00bb00</string>
+				<string>#00dd00</string>
 				<key>selection</key>
 				<string>#00dd00</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#00ff00</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#007700</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#00ff00</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>1e247bf0-969f-42d8-84c2-f4fe20e2d77f</string>
+	<string>28d87cc0-91c9-4c0e-a7df-3cc9735c10b6</string>
 </dict>
 </plist>

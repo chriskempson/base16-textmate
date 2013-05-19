@@ -8,6 +8,8 @@
 	<string>Base16 Solarized Light</string>
 	<key>semanticClass</key>
 	<string>base16.solarized.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#eee8d5</string>
 				<key>lineHighlight</key>
-				<string>#93a1a1</string>
+				<string>#eee8d5</string>
 				<key>selection</key>
 				<string>#eee8d5</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#fdf6e3</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#dc322f</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#fdf6e3</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>e209e1bb-2024-40fe-8775-c712ca3ae8fd</string>
+	<string>57f6c00b-29c1-4400-a830-dd9e97a51e1f</string>
 </dict>
 </plist>

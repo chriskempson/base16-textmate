@@ -8,6 +8,8 @@
 	<string>Base16 Mocha Dark</string>
 	<key>semanticClass</key>
 	<string>base16.mocha.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#534636</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#cb6077</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#3B3228</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>77182727-bf8f-4194-a2b1-fec9aa70eabb</string>
+	<string>ad1008d8-6015-487f-9989-c0c31db1862f</string>
 </dict>
 </plist>

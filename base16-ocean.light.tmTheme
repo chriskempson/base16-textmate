@@ -8,6 +8,8 @@
 	<string>Base16 Ocean Light</string>
 	<key>semanticClass</key>
 	<string>base16.ocean.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#dfe1e8</string>
 				<key>lineHighlight</key>
-				<string>#c0c5ce</string>
+				<string>#dfe1e8</string>
 				<key>selection</key>
 				<string>#dfe1e8</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#eff1f5</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#bf616a</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#eff1f5</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>b4d368fb-a67d-4aa1-a3a6-d1cf1f0b3d04</string>
+	<string>8fa91f72-70dd-49b6-8c3f-19862a2f17f7</string>
 </dict>
 </plist>

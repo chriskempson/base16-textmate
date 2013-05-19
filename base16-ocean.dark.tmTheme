@@ -8,6 +8,8 @@
 	<string>Base16 Ocean Dark</string>
 	<key>semanticClass</key>
 	<string>base16.ocean.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#343d46</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#bf616a</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#2b303b</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>3866d550-c6f1-4f14-a50d-8ff391d783a7</string>
+	<string>f1c754dd-97e5-48c8-ac15-af4b9eff0e1c</string>
 </dict>
 </plist>

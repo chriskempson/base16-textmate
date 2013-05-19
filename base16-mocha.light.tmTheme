@@ -8,6 +8,8 @@
 	<string>Base16 Mocha Light</string>
 	<key>semanticClass</key>
 	<string>base16.mocha.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#e9e1dd</string>
 				<key>lineHighlight</key>
-				<string>#d0c8c6</string>
+				<string>#e9e1dd</string>
 				<key>selection</key>
 				<string>#e9e1dd</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#f5eeeb</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#cb6077</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f5eeeb</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>12f55c52-6a73-4b7c-ac29-94317bf823d2</string>
+	<string>801aa662-e8c1-4804-b5dd-aa317bc5c850</string>
 </dict>
 </plist>

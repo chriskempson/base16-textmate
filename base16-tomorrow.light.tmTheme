@@ -8,6 +8,8 @@
 	<string>Base16 Tomorrow Light</string>
 	<key>semanticClass</key>
 	<string>base16.tomorrow.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#e0e0e0</string>
 				<key>lineHighlight</key>
-				<string>#c5c8c6</string>
+				<string>#e0e0e0</string>
 				<key>selection</key>
 				<string>#e0e0e0</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#ffffff</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#cc6666</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>0a57bf1a-6349-453b-8159-4cd55f313839</string>
+	<string>883b753c-ee19-48a2-9769-520349ed81ae</string>
 </dict>
 </plist>

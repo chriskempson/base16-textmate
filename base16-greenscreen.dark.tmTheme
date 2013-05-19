@@ -8,6 +8,8 @@
 	<string>Base16 Green Screen Dark</string>
 	<key>semanticClass</key>
 	<string>base16.greenscreen.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#003300</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#007700</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#001100</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>3a117f5f-27ef-467e-9f80-7120f1d043af</string>
+	<string>71870e5c-520a-4fa2-9767-281ed53e79f1</string>
 </dict>
 </plist>

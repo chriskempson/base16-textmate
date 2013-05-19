@@ -8,6 +8,8 @@
 	<string>Base16 Default Dark</string>
 	<key>semanticClass</key>
 	<string>base16.default.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#202020</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ac4142</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#151515</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>f79eabdf-9d82-4ee1-bf02-4a00e25f51ea</string>
+	<string>f4ec5c5b-afbd-4cce-8ff7-be9dba933753</string>
 </dict>
 </plist>

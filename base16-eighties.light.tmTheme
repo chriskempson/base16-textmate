@@ -8,6 +8,8 @@
 	<string>Base16 Eighties Light</string>
 	<key>semanticClass</key>
 	<string>base16.eighties.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#e8e6df</string>
 				<key>lineHighlight</key>
-				<string>#d3d0c8</string>
+				<string>#e8e6df</string>
 				<key>selection</key>
 				<string>#e8e6df</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#f2f0ec</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#f2777a</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f2f0ec</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>66557058-73b8-4f26-b3ee-ff68f7464a97</string>
+	<string>b8e57700-a6e2-4929-aa22-b8579dd4aaf7</string>
 </dict>
 </plist>

@@ -8,6 +8,8 @@
 	<string>Base16 Default Light</string>
 	<key>semanticClass</key>
 	<string>base16.default.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#e0e0e0</string>
 				<key>lineHighlight</key>
-				<string>#d0d0d0</string>
+				<string>#e0e0e0</string>
 				<key>selection</key>
 				<string>#e0e0e0</string>
 			</dict>
@@ -509,8 +511,23 @@
 				<string>#f5f5f5</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ac4142</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>038cd454-c24a-4fb5-a974-ca67ff81cfb5</string>
+	<string>83c1ae5d-eb64-461c-8436-a743d737ae06</string>
 </dict>
 </plist>

@@ -8,6 +8,8 @@
 	<string>Base16 Chalk Dark</string>
 	<key>semanticClass</key>
 	<string>base16.chalk.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -509,8 +511,23 @@
 				<string>#202020</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid - illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#fb9fb1</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#151515</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>f5b90e48-d689-4527-bb75-13ac985f7f15</string>
+	<string>5046c747-2dea-4544-b1a9-4504ed5e1c46</string>
 </dict>
 </plist>
