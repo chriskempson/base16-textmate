@@ -123,7 +123,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.function-call, meta.require</string>
+			<string>entity.name.function, meta.require, support.function.any-method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -409,10 +409,8 @@
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#90a959</string>
 				<key>foreground</key>
-				<string>#f5f5f5</string>
+				<string>#90a959</string>
 			</dict>
 		</dict>
 		<dict>
@@ -422,15 +420,24 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ac4142</string>
 				<key>foreground</key>
-				<string>#f5f5f5</string>
+				<string>#ac4142</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Colours</string>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aa759f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colors</string>
 			<key>scope</key>
 			<string>constant.other.color</string>
 			<key>settings</key>
@@ -474,60 +481,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff.deleted</string>
-			<key>scope</key>
-			<string>markup.deleted</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ac4142</string>
-				<key>background</key>
-				<string>#f5f5f5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>diff.inserted</string>
-			<key>scope</key>
-			<string>markup.inserted</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#90a959</string>
-				<key>background</key>
-				<string>#f5f5f5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>diff.changed</string>
-			<key>scope</key>
-			<string>markup.changed</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#aa759f</string>
-				<key>background</key>
-				<string>#f5f5f5</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Invalid - illegal</string>
+			<string>Invalid</string>
 			<key>scope</key>
 			<string>invalid.illegal</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#ac4142</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#f5f5f5</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>85710187-e259-4d2d-9d09-beaee40d9009</string>
+	<string>45e77bc2-4b66-4ee9-8845-97700c477150</string>
 </dict>
 </plist>
