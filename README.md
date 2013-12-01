@@ -14,7 +14,8 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
     cp Base16/Themes/*.tmTheme .
 
 ### TextMate 2
-    mkdir -p ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles && cd ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles
+    mkdir -p ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles
+    cd ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles
     git clone git://github.com/chriskempson/base16-textmate.git Base16.tmbundle
 
 ### Sublime Text 2
