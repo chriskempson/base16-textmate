@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
+	<key>author</key>
 	<string>Ethan Schoonover (http://ethanschoonover.com/solarized)</string>
 	<key>name</key>
 	<string>Base16 Solarized Light</string>
@@ -37,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#eee8d5</string>
 				<key>lineHighlight</key>
-				<string>#eee8d5</string>
+				<string>#83949655</string>
 				<key>selection</key>
 				<string>#eee8d5</string>
 			</dict>
@@ -101,7 +101,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -134,11 +134,22 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#cb4b16</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classes</string>
+			<key>scope</key>
+			<string>meta.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#073642</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,6 +505,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>7a4163fc-ea5b-43aa-8ed9-c27e1d6f54ca</string>
+	<string>51b8ddd5-2a5a-4949-a51f-10bfe055b0de</string>
 </dict>
 </plist>

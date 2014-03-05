@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
+	<key>author</key>
 	<string>Wimer Hazenberg (http://www.monokai.nl)</string>
 	<key>name</key>
 	<string>Base16 Monokai Dark</string>
@@ -37,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#75715e</string>
 				<key>lineHighlight</key>
-				<string>#383830</string>
+				<string>#75715e55</string>
 				<key>selection</key>
 				<string>#49483e</string>
 			</dict>
@@ -101,7 +101,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -134,11 +134,22 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#f4bf75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classes</string>
+			<key>scope</key>
+			<string>meta.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f9f8f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,6 +505,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>9fa7b12f-76bf-418d-b959-c62fee2f4a25</string>
+	<string>a4e6c65f-d5eb-46a3-9bd8-aad2b7b488ef</string>
 </dict>
 </plist>

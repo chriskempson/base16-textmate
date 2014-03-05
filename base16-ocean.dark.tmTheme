@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
+	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
 	<string>Base16 Ocean Dark</string>
@@ -37,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
-				<string>#343d46</string>
+				<string>#65737e55</string>
 				<key>selection</key>
 				<string>#4f5b66</string>
 			</dict>
@@ -101,7 +101,7 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -134,11 +134,22 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#ebcb8b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classes</string>
+			<key>scope</key>
+			<string>meta.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#eff1f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,6 +505,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>da606832-66a7-4bc9-80b8-ab9b165e21d7</string>
+	<string>e542aaed-40d3-4140-8c2e-1a0a95be7b5e</string>
 </dict>
 </plist>
