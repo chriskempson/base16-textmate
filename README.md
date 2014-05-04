@@ -9,6 +9,7 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 ## Installation
 
 ### TextMate
+    mkdir -p ~/Library/Application\ Support/TextMate/Themes
     cd ~/Library/Application\ Support/TextMate/Themes
     git clone git://github.com/chriskempson/base16-textmate.git Base16
     cp Base16/*.tmTheme .
