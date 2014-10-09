@@ -492,7 +492,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid</string>
+			<string>Illegal</string>
 			<key>scope</key>
 			<string>invalid.illegal</string>
 			<key>settings</key>
@@ -503,8 +503,47 @@
 				<string>#fefbec</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Broken</string>
+			<key>scope</key>
+			<string>invalid.broken</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#b65611</string>
+				<key>foreground</key>
+				<string>#20201d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#d43552</string>
+				<key>foreground</key>
+				<string>#fefbec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unimplemented</string>
+			<key>scope</key>
+			<string>invalid.unimplemented</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#a6a28c</string>
+				<key>foreground</key>
+				<string>#20201d</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>1ba90098-b05f-47dc-b220-a8e2ecc3c3d5</string>
+	<string>a89f35cb-d16b-4277-93ad-1edbf082f101</string>
 </dict>
 </plist>
