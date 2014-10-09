@@ -360,7 +360,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-			<string>string.other.link</string>
+      <string>string.other.link, punctuation.definition.string.end.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -544,6 +544,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>bdf2021a-ebca-440b-96e4-cb01e4a2f044</string>
+	<string>4fe4fb5a-65df-48d3-8175-e4397ceccb4e</string>
 </dict>
 </plist>
