@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Nguyen Nguyen (http://github.com/NLKNguyen)</string>
 	<key>name</key>
-	<string>Base16 PaperColor-Dark Dark</string>
+	<string>Base16 PaperColor Dark</string>
 	<key>semanticClass</key>
-	<string>base16.papercolor-dark.dark</string>
+	<string>base16.papercolor.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
