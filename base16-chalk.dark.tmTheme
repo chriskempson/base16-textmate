@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
+	<key>author</key>
 	<string>Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
 	<string>Base16 Chalk Dark</string>
 	<key>semanticClass</key>
 	<string>base16.chalk.dark</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
@@ -35,7 +37,7 @@
 				<key>invisibles</key>
 				<string>#505050</string>
 				<key>lineHighlight</key>
-				<string>#202020</string>
+				<string>#50505055</string>
 				<key>selection</key>
 				<string>#303030</string>
 			</dict>
@@ -99,11 +101,22 @@
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword, keyword.control</string>
+			<string>keyword</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#e1a3ee</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Accessors</string>
+			<key>scope</key>
+			<string>keyword.other.accessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6fc2ef</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,7 +134,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.function-call, meta.require</string>
+			<string>entity.name.function, meta.require, support.function.any-method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -132,11 +145,22 @@
 			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
-			<string>meta.class, support.class, entity.name.class, entity.name.type.class</string>
+			<string>support.class, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#ddb26f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classes</string>
+			<key>scope</key>
+			<string>meta.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -347,7 +371,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-			<string>string.other.link</string>
+			<string>string.other.link, punctuation.definition.string.end.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -402,41 +426,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Diff Header</string>
-			<key>scope</key>
-			<string>meta.diff.header</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#151515</string>
-				<key>foreground</key>
-				<string>#6fc2ef</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diff Range</string>
-			<key>scope</key>
-			<string>meta.diff.range</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#151515</string>
-				<key>foreground</key>
-				<string>#12cfc0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Inserted</string>
 			<key>scope</key>
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#acc267</string>
 				<key>foreground</key>
-				<string>#151515</string>
+				<string>#acc267</string>
 			</dict>
 		</dict>
 		<dict>
@@ -446,15 +442,24 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#fb9fb1</string>
 				<key>foreground</key>
-				<string>#151515</string>
+				<string>#fb9fb1</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Colours</string>
+			<string>Changed</string>
+			<key>scope</key>
+			<string>markup.changed</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#e1a3ee</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colors</string>
 			<key>scope</key>
 			<string>constant.other.color</string>
 			<key>settings</key>
@@ -496,8 +501,106 @@
 				<string>#deaf8f</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Illegal</string>
+			<key>scope</key>
+			<string>invalid.illegal</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#fb9fb1</string>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Broken</string>
+			<key>scope</key>
+			<string>invalid.broken</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#eda987</string>
+				<key>foreground</key>
+				<string>#151515</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#deaf8f</string>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unimplemented</string>
+			<key>scope</key>
+			<string>invalid.unimplemented</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#505050</string>
+				<key>foreground</key>
+				<string>#f5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Variables</string>
+			<key>scope</key>
+			<string>source.js variable.other, variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d0d0d0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>jQuery Dollar</string>
+			<key>scope</key>
+			<string>variable.other.dollar</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fb9fb1</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS DOM Support</string>
+			<key>scope</key>
+			<string>support.type.object.dom</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ddb26f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Properties</string>
+			<key>scope</key>
+			<string>constant.other.object.key.js, string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#d0d0d0</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>8a9b7cf0-da87-493c-82f1-0f9bd3241655</string>
+	<string>6ec4dd0b-e7a5-40e2-96df-15e30dbe8e47</string>
 </dict>
 </plist>
