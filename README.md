@@ -20,24 +20,29 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 
 ### Sublime Text 2
 OS X:
-    
+
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     git clone git://github.com/chriskempson/base16-textmate.git Base16
 
 Windows:
-    
+
     cd %APPDATA%\Sublime Text 2\Packages\User
     git clone git://github.com/chriskempson/base16-textmate.git Base16
-    
+
 ### Sublime Text 3
 OS X:
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
     git clone git://github.com/chriskempson/base16-textmate.git Base16
-    
+
 Windows:
-    
+
     cd %APPDATA%\Sublime Text 3\Packages\User
+    git clone git://github.com/chriskempson/base16-textmate.git Base16
+
+Linux
+
+    cd ~/.config/sublime-text-3/Packages/
     git clone git://github.com/chriskempson/base16-textmate.git Base16
 
 ## Update
@@ -53,22 +58,27 @@ Windows:
 
 ### Sublime Text 2
 OS X:
-    
+
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Base16
     git pull
 
 Windows:
-    
+
     cd %APPDATA%\Sublime Text 2\Packages\User
     git pull
-    
+
 ### Sublime Text 3
 OSX:
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
     git pull
-    
+
 Windows:
-    
+
     cd %APPDATA%\Sublime Text 3\Packages\User
+    git pull
+
+Linux
+
+    cd ~/.config/sublime-text-3/Packages/
     git pull
