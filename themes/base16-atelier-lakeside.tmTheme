@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/lakeside/)</string>
+	<string>Template: Chris Kempson, Scheme: Bram de Haan (http://atelierbramdehaan.nl)</string>
 	<key>name</key>
 	<string>Base16 Atelier Lakeside Dark</string>
 	<key>semanticClass</key>
