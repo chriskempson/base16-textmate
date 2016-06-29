@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Ethan Schoonover (http://ethanschoonover.com/solarized)</string>
 	<key>name</key>
-	<string>Base16 Solarized Dark</string>
+	<string>Base16 Solarized Dark Dark</string>
 	<key>semanticClass</key>
-	<string>base16.solarized.dark</string>
+	<string>base16.solarized-dark.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
