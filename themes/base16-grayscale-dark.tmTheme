@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Alexandre Gavioli (https://github.com/Alexx2/)</string>
 	<key>name</key>
-	<string>Base16 Grayscale Dark</string>
+	<string>Base16 Grayscale Dark Dark</string>
 	<key>semanticClass</key>
-	<string>base16.grayscale.dark</string>
+	<string>base16.grayscale-dark.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
