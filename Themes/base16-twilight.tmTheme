@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: David Hart (http://hart-dev.com)</string>
+	<string>Template: Chris Kempson, Scheme: David Hart (https://github.com/hartbit)</string>
 	<key>name</key>
 	<string>Base16 Twilight Dark</string>
 	<key>semanticClass</key>
