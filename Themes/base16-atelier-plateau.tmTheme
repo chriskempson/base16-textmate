@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Bram de Haan (http://atelierbramdehaan.nl)</string>
 	<key>name</key>
-	<string>Base16 Atelier Plateau Dark</string>
+	<string>Base16 Atelier Plateau</string>
 	<key>semanticClass</key>
-	<string>base16.atelier-plateau.dark</string>
+	<string>theme.base16.atelier-plateau</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

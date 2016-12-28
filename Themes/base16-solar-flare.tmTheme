@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Chuck Harmston (https://chuck.harmston.ch)</string>
 	<key>name</key>
-	<string>Base16 Solar Flare Dark</string>
+	<string>Base16 Solar Flare</string>
 	<key>semanticClass</key>
-	<string>base16.solar-flare.dark</string>
+	<string>theme.base16.solar-flare</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

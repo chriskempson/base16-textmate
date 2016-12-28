@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: https://github.com/voronianski/oceanic-next-color-scheme</string>
 	<key>name</key>
-	<string>Base16 OceanicNext Dark</string>
+	<string>Base16 OceanicNext</string>
 	<key>semanticClass</key>
-	<string>base16.oceanicnext.dark</string>
+	<string>theme.base16.oceanicnext</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

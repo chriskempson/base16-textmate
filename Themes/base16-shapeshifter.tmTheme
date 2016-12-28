@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Tyler Benziger (http://tybenz.com)</string>
 	<key>name</key>
-	<string>Base16 Shapeshifter Dark</string>
+	<string>Base16 Shapeshifter</string>
 	<key>semanticClass</key>
-	<string>base16.shapeshifter.dark</string>
+	<string>theme.base16.shapeshifter</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

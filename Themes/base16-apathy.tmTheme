@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jannik Siebert (https://github.com/janniks)</string>
 	<key>name</key>
-	<string>Base16 Apathy Dark</string>
+	<string>Base16 Apathy</string>
 	<key>semanticClass</key>
-	<string>base16.apathy.dark</string>
+	<string>theme.base16.apathy</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

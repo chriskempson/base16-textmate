@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Sheldon Johnson</string>
 	<key>name</key>
-	<string>Base16 Mexico Light Dark</string>
+	<string>Base16 Mexico Light</string>
 	<key>semanticClass</key>
-	<string>base16.mexico-light.dark</string>
+	<string>theme.base16.mexico-light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

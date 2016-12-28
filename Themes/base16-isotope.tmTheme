@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Isotope Dark</string>
+	<string>Base16 Isotope</string>
 	<key>semanticClass</key>
-	<string>base16.isotope.dark</string>
+	<string>theme.base16.isotope</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

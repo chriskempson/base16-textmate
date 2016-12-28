@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Rebecca Bettencourt (http://www.kreativekorp.com)</string>
 	<key>name</key>
-	<string>Base16 Macintosh Dark</string>
+	<string>Base16 Macintosh</string>
 	<key>semanticClass</key>
-	<string>base16.macintosh.dark</string>
+	<string>theme.base16.macintosh</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

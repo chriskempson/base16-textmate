@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: </string>
 	<key>name</key>
-	<string>Base16 Seti UI Dark</string>
+	<string>Base16 Seti UI</string>
 	<key>semanticClass</key>
-	<string>base16.seti-ui.dark</string>
+	<string>theme.base16.seti-ui</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

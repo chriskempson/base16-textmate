@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
-	<string>Base16 Eighties Dark</string>
+	<string>Base16 Eighties</string>
 	<key>semanticClass</key>
-	<string>base16.eighties.dark</string>
+	<string>theme.base16.eighties</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

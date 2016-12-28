@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jason Milkins (https://github.com/jasonm23)</string>
 	<key>name</key>
-	<string>Base16 Darktooth Dark</string>
+	<string>Base16 Darktooth</string>
 	<key>semanticClass</key>
-	<string>base16.darktooth.dark</string>
+	<string>theme.base16.darktooth</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Seth Wright (http://sethawright.com)</string>
 	<key>name</key>
-	<string>Base16 Google Dark Dark</string>
+	<string>Base16 Google Dark</string>
 	<key>semanticClass</key>
-	<string>base16.google-dark.dark</string>
+	<string>theme.base16.google-dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Josh W Lewis (@joshwlewis)</string>
 	<key>name</key>
-	<string>Base16 Unikitty Light Dark</string>
+	<string>Base16 Unikitty Light</string>
 	<key>semanticClass</key>
-	<string>base16.unikitty-light.dark</string>
+	<string>theme.base16.unikitty-light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

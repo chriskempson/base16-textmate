@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: brettof86</string>
 	<key>name</key>
-	<string>Base16 Codeschool Dark</string>
+	<string>Base16 Codeschool</string>
 	<key>semanticClass</key>
-	<string>base16.codeschool.dark</string>
+	<string>theme.base16.codeschool</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

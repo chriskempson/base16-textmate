@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Hennig Hasemann (http://leetless.de/vim.html)</string>
 	<key>name</key>
-	<string>Base16 PhD Dark</string>
+	<string>Base16 PhD</string>
 	<key>semanticClass</key>
-	<string>base16.phd.dark</string>
+	<string>theme.base16.phd</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

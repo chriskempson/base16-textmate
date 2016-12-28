@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jannik Siebert (https://github.com/janniks)</string>
 	<key>name</key>
-	<string>Base16 Harmonic16 Dark Dark</string>
+	<string>Base16 Harmonic16 Dark</string>
 	<key>semanticClass</key>
-	<string>base16.harmonic16-dark.dark</string>
+	<string>theme.base16.harmonic16-dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

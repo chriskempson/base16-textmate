@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Alexandre Gavioli (http://github.com/Alexx2/)</string>
 	<key>name</key>
-	<string>Base16 Marrakesh Dark</string>
+	<string>Base16 Marrakesh</string>
 	<key>semanticClass</key>
-	<string>base16.marrakesh.dark</string>
+	<string>theme.base16.marrakesh</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

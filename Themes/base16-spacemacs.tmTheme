@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)</string>
 	<key>name</key>
-	<string>Base16 Spacemacs Dark</string>
+	<string>Base16 Spacemacs</string>
 	<key>semanticClass</key>
-	<string>base16.spacemacs.dark</string>
+	<string>theme.base16.spacemacs</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

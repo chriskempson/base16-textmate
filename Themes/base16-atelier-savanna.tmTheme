@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Bram de Haan (http://atelierbramdehaan.nl)</string>
 	<key>name</key>
-	<string>Base16 Atelier Savanna Dark</string>
+	<string>Base16 Atelier Savanna</string>
 	<key>semanticClass</key>
-	<string>base16.atelier-savanna.dark</string>
+	<string>theme.base16.atelier-savanna</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

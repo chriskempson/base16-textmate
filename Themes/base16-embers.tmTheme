@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jannik Siebert (https://github.com/janniks)</string>
 	<key>name</key>
-	<string>Base16 Embers Dark</string>
+	<string>Base16 Embers</string>
 	<key>semanticClass</key>
-	<string>base16.embers.dark</string>
+	<string>theme.base16.embers</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

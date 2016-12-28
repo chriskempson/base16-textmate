@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Timothée Poisot (http://timotheepoisot.fr)</string>
 	<key>name</key>
-	<string>Base16 IR Black Dark</string>
+	<string>Base16 IR Black</string>
 	<key>semanticClass</key>
-	<string>base16.ir-black.dark</string>
+	<string>theme.base16.ir-black</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

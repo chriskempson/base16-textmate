@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
-	<string>Base16 Mocha Dark</string>
+	<string>Base16 Mocha</string>
 	<key>semanticClass</key>
-	<string>base16.mocha.dark</string>
+	<string>theme.base16.mocha</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Hopscotch Dark</string>
+	<string>Base16 Hopscotch</string>
 	<key>semanticClass</key>
-	<string>base16.hopscotch.dark</string>
+	<string>theme.base16.hopscotch</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

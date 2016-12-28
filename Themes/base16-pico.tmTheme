@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: PICO-8 (http://www.lexaloffle.com/pico-8.php)</string>
 	<key>name</key>
-	<string>Base16 Pico Dark</string>
+	<string>Base16 Pico</string>
 	<key>semanticClass</key>
-	<string>base16.pico.dark</string>
+	<string>theme.base16.pico</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

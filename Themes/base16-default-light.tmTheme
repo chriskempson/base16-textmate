@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
-	<string>Base16 Default Light Dark</string>
+	<string>Base16 Default Light</string>
 	<key>semanticClass</key>
-	<string>base16.default-light.dark</string>
+	<string>theme.base16.default-light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

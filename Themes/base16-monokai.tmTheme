@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Wimer Hazenberg (http://www.monokai.nl)</string>
 	<key>name</key>
-	<string>Base16 Monokai Dark</string>
+	<string>Base16 Monokai</string>
 	<key>semanticClass</key>
-	<string>base16.monokai.dark</string>
+	<string>theme.base16.monokai</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

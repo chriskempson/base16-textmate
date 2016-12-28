@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Defman21</string>
 	<key>name</key>
-	<string>Base16 Github Dark</string>
+	<string>Base16 Github</string>
 	<key>semanticClass</key>
-	<string>base16.github.dark</string>
+	<string>theme.base16.github</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

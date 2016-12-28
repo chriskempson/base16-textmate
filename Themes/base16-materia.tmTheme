@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Defman21</string>
 	<key>name</key>
-	<string>Base16 Materia Dark</string>
+	<string>Base16 Materia</string>
 	<key>semanticClass</key>
-	<string>base16.materia.dark</string>
+	<string>theme.base16.materia</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

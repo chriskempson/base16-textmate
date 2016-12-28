@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Chris Kempson (http://chriskempson.com)</string>
 	<key>name</key>
-	<string>Base16 Green Screen Dark</string>
+	<string>Base16 Green Screen</string>
 	<key>semanticClass</key>
-	<string>base16.green-screen.dark</string>
+	<string>theme.base16.green-screen</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

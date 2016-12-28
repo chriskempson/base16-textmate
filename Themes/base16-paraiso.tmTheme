@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Paraiso Dark</string>
+	<string>Base16 Paraiso</string>
 	<key>semanticClass</key>
-	<string>base16.paraiso.dark</string>
+	<string>theme.base16.paraiso</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

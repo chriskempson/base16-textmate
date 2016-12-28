@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Ryan Bates (http://railscasts.com)</string>
 	<key>name</key>
-	<string>Base16 Railscasts Dark</string>
+	<string>Base16 Railscasts</string>
 	<key>semanticClass</key>
-	<string>base16.railscasts.dark</string>
+	<string>theme.base16.railscasts</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

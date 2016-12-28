@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: David Hart (https://github.com/hartbit)</string>
 	<key>name</key>
-	<string>Base16 Twilight Dark</string>
+	<string>Base16 Twilight</string>
 	<key>semanticClass</key>
-	<string>base16.twilight.dark</string>
+	<string>theme.base16.twilight</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

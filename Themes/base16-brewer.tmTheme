@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Timothée Poisot (http://github.com/tpoisot)</string>
 	<key>name</key>
-	<string>Base16 Brewer Dark</string>
+	<string>Base16 Brewer</string>
 	<key>semanticClass</key>
-	<string>base16.brewer.dark</string>
+	<string>theme.base16.brewer</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

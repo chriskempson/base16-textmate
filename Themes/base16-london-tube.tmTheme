@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 London Tube Dark</string>
+	<string>Base16 London Tube</string>
 	<key>semanticClass</key>
-	<string>base16.london-tube.dark</string>
+	<string>theme.base16.london-tube</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

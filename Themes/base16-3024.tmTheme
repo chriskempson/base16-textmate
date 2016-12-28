@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Jan T. Sott (http://github.com/idleberg)</string>
 	<key>name</key>
-	<string>Base16 3024 Dark</string>
+	<string>Base16 3024</string>
 	<key>semanticClass</key>
-	<string>base16.3024.dark</string>
+	<string>theme.base16.3024</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

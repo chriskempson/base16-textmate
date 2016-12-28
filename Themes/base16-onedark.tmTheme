@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Lalit Magant (http://github.com/tilal6991)</string>
 	<key>name</key>
-	<string>Base16 OneDark Dark</string>
+	<string>Base16 OneDark</string>
 	<key>semanticClass</key>
-	<string>base16.onedark.dark</string>
+	<string>theme.base16.onedark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

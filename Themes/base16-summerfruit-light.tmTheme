@@ -5,9 +5,9 @@
 	<key>author</key>
 	<string>Template: Chris Kempson, Scheme: Christopher Corley (http://christop.club/)</string>
 	<key>name</key>
-	<string>Base16 Summerfruit Light Dark</string>
+	<string>Base16 Summerfruit Light</string>
 	<key>semanticClass</key>
-	<string>base16.summerfruit-light.dark</string>
+	<string>theme.base16.summerfruit-light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
