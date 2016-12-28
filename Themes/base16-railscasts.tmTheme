@@ -544,6 +544,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>base16-railscasts</string>
+	<string>uuid</string>
 </dict>
 </plist>

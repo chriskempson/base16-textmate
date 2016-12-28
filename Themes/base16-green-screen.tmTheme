@@ -544,6 +544,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>base16-green-screen</string>
+	<string>uuid</string>
 </dict>
 </plist>
