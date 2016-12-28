@@ -544,6 +544,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>uuid</string>
+	<string>base16-solarized-light</string>
 </dict>
 </plist>
