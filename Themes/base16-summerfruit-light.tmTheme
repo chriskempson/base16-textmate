@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Summerfruit Light</string>
 	<key>semanticClass</key>
-	<string>theme.base16.summerfruit-light</string>
+	<string>theme.base16.</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

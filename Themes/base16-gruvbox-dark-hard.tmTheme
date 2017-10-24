@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Gruvbox dark, hard</string>
 	<key>semanticClass</key>
-	<string>theme.base16.gruvbox-dark-hard</string>
+	<string>theme.base16.</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

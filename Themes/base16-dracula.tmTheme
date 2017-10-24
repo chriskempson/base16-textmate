@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Dracula</string>
 	<key>semanticClass</key>
-	<string>theme.base16.dracula</string>
+	<string>theme.base16.</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

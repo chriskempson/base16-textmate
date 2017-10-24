@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Plateau Light</string>
 	<key>semanticClass</key>
-	<string>theme.base16.atelier-plateau-light</string>
+	<string>theme.base16.</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
