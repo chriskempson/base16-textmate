@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Atelier Savanna</string>
 	<key>semanticClass</key>
-	<string>theme.base16.</string>
+	<string>theme.base16.atelier-savanna</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

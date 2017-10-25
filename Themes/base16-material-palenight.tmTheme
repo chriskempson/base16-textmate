@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Material Palenight</string>
 	<key>semanticClass</key>
-	<string>theme.base16.</string>
+	<string>theme.base16.material-palenight</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

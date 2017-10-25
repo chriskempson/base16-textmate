@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Base16 Rebecca</string>
 	<key>semanticClass</key>
-	<string>theme.base16.</string>
+	<string>theme.base16.rebecca</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
