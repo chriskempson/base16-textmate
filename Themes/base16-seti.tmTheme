@@ -13,9 +13,9 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#8ec43d</string>
+		<string>#282a2b</string>
 		<key>divider</key>
-		<string>#8ec43d</string>
+		<string>#282a2b</string>
 		<key>foreground</key>
 		<string>#41535B</string>
 		<key>selectionBackground</key>
@@ -128,6 +128,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#55b5db</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Labels</string>
+			<key>scope</key>
+			<string>entity.name.label</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8a553f</string>
 			</dict>
 		</dict>
 		<dict>

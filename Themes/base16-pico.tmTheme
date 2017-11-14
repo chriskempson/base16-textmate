@@ -132,6 +132,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Labels</string>
+			<key>scope</key>
+			<string>entity.name.label</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffccaa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Classes</string>
 			<key>scope</key>
 			<string>support.class, entity.name.class, entity.name.type.class</string>
