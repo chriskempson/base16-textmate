@@ -13,9 +13,9 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#1A092D</string>
+		<string>#1a092d</string>
 		<key>divider</key>
-		<string>#1A092D</string>
+		<string>#1a092d</string>
 		<key>foreground</key>
 		<string>#320f55</string>
 		<key>selectionBackground</key>
@@ -371,7 +371,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+      <string>string.other.link, punctuation.definition.string.end.markdown, punctuation.definition.string.begin.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
