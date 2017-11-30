@@ -371,7 +371,7 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+      <string>string.other.link, punctuation.definition.string.end.markdown, punctuation.definition.string.begin.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

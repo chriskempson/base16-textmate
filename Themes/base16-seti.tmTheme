@@ -17,9 +17,9 @@
 		<key>divider</key>
 		<string>#282a2b</string>
 		<key>foreground</key>
-		<string>#41535B</string>
+		<string>#41535b</string>
 		<key>selectionBackground</key>
-		<string>#3B758C</string>
+		<string>#3b758c</string>
 		<key>selectionForeground</key>
 		<string>#43a5d5</string>
 	</dict>
@@ -35,11 +35,11 @@
 				<key>foreground</key>
 				<string>#d6d6d6</string>
 				<key>invisibles</key>
-				<string>#41535B</string>
+				<string>#41535b</string>
 				<key>lineHighlight</key>
-				<string>#41535B55</string>
+				<string>#41535b55</string>
 				<key>selection</key>
-				<string>#3B758C</string>
+				<string>#3b758c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#41535B</string>
+				<string>#41535b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +116,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,7 +259,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -371,11 +371,11 @@
 			<key>name</key>
 			<string>Link Text</string>
 			<key>scope</key>
-      <string>string.other.link, punctuation.definition.string.end.markdown</string>
+      <string>string.other.link, punctuation.definition.string.end.markdown, punctuation.definition.string.begin.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -397,7 +397,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -419,7 +419,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3B758C</string>
+				<string>#3b758c</string>
 				<key>foreground</key>
 				<string>#d6d6d6</string>
 			</dict>
@@ -443,7 +443,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -509,7 +509,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#Cd3f45</string>
+				<string>#cd3f45</string>
 				<key>foreground</key>
 				<string>#ffffff</string>
 			</dict>
@@ -548,7 +548,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#41535B</string>
+				<string>#41535b</string>
 				<key>foreground</key>
 				<string>#ffffff</string>
 			</dict>
