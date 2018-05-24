@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: brettof86</string>
+	<string>Template: Chris Kempson, Scheme: blockloop</string>
 	<key>name</key>
 	<string>Base16 Codeschool</string>
 	<key>semanticClass</key>

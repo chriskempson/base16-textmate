@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: Ethan Schoonover (http://ethanschoonover.com/solarized)</string>
+	<string>Template: Chris Kempson, Scheme: Ethan Schoonover (modified by aramisgithub)</string>
 	<key>name</key>
 	<string>Base16 Solarized Light</string>
 	<key>semanticClass</key>
