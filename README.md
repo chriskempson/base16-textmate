@@ -4,7 +4,7 @@ See the [Base16 repository](https://github.com/chriskempson/base16) for more inf
 This theme was built with [Base16 Builder PHP](https://github.com/chriskempson/base16-builder-php).
 
 ![Base16 TextMate Dark](base16-textmate-dark.png)
-![Base16 TextMate Light](/base16-textmate-light.png)
+![Base16 TextMate Light](base16-textmate-light.png)
 
 ## Installation
 
