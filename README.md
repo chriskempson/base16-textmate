@@ -70,15 +70,15 @@ Windows:
 ### Sublime Text 3
 OSX:
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Base16
     git pull
 
 Windows:
 
-    cd %APPDATA%\Sublime Text 3\Packages\User
+    cd %APPDATA%\Sublime Text 3\Packages\User\Base16
     git pull
 
 Linux
 
-    cd ~/.config/sublime-text-3/Packages/
+    cd ~/.config/sublime-text-3/Packages/Base16
     git pull
