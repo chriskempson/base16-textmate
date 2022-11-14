@@ -553,6 +553,17 @@
 				<string>#181818</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mapping Key Names</string>
+			<key>scope</key>
+			<string>meta.mapping.key string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ab4642</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>uuid</string>
